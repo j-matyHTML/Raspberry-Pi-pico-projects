@@ -1,2 +1,2 @@
 # Raspberry-Pi-pico-projects
-Small projects for Raspberry Pi pico
+Projects for Raspberry Pi pico. 
